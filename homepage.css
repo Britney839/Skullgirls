@@ -117,26 +117,10 @@ h1, h2 {
     margin-top: 20px;
 }
 
-#featured-services h2 {
-    font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 20px;
-}
-
 #featured p {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     margin-bottom: 20px;
-}
-
-#additional p {
-    font-weight: bold;
-    font-family:'Courier New', Courier, monospace;
-    margin-bottom: 20px;
-}
-
-#additional {
-    text-align: center;
-    margin-top: 20px;
 }
 
 .feature-image {
@@ -149,10 +133,6 @@ h1, h2 {
     object-fit: cover;
     border-radius: 8px;
     box-shadow: 0 35px 35px rgba(44, 130, 179, 0.514);
-}
-
-#service-list {
-    padding: 20px;
 }
 
 section {
@@ -201,14 +181,6 @@ section {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.logo-img {
-    width:150px;
-    height: 150px;
-    object-fit: cover;
-    display: inline-block;
-    box-shadow: 0 35px 35px rgba(44, 141, 179, 0.514);
-}
-
 .header-img, .header-img2 {
     width: 160px;
     height: 100px;
@@ -225,11 +197,6 @@ section {
 .header-img2 {
     margin-right: 40px;
     box-shadow: 0 35px 35px rgba(17, 145, 219, 0.411);
-}
-
-.logo-img {
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 .character-img {
