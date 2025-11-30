@@ -68,6 +68,21 @@
 
 }
 
+.black-dahlia-selection-page {
+    background-image: url('Images/black-dahlia-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 180vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+
 
 #page-title {
     color:aliceblue;
