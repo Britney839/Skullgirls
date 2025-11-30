@@ -14,7 +14,7 @@
 }
 
 .eliza-selection-page {
-    background-image: url('Images/eliza-background.jpg');
+    background-image: url('Images/eliza-background.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -69,7 +69,7 @@
 }
 
 .black-dahlia-selection-page {
-    background-image: url('Images/black-dahlia-background.png');
+    background-image: url('Images/black-dahlia-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
