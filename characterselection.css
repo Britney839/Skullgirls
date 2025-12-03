@@ -96,6 +96,61 @@
 
 }
 
+.marie-selection-page {
+    background-image: url('Images/marie-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 180vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+.ms-fortune-selection-page {
+    background-image: url('Images/msfortunebackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 180vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+.double-selection-page {
+    background-image: url('Images/double-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 180vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+.squigly-selection-page {
+    background-image: url('Images/squigly-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 180vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+
+}
 
 #page-title {
     color:aliceblue;
