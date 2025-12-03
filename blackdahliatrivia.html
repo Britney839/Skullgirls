@@ -6,6 +6,7 @@
     <title>Black Dahlia</title>
     <link rel="stylesheet" href="homepage.css">
     <link rel="stylesheet" href="characterselection.css">
+    <script src="skullgirls.js" data-character="blackDahlia"></script>
 </head>
 <body class="black-dahlia-selection-page">
     <div class="content-container">
@@ -39,6 +40,15 @@
             <br>
             <div id="trivia-container"></div>
             <hr><br>
+            <h2>Want to add a trivia question not featured here?</h2>
+            <form id="add-form" onsubmit="addNewQuestion(event)">
+                <input type="text" name="question" placeholder="New Question" required>
+                <input type="text" name="option1" placeholder="Option 1" required>
+                <input type="text" name="option2" placeholder="Option 2" required>
+                <input type="text" name="option3" placeholder="Option 3" required>
+                <input type="text" name="correct" placeholder="Correct Answer" required>
+                <button type="submit">Add Question</button>
+            </form>
         </section>
         <section id="featured">
             <img src="Images/black-dahlia-feature.jpg" alt="Black Dahlia Feature" class="feature-image">

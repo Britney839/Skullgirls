@@ -212,3 +212,20 @@ h2 {
     margin-bottom: 20px;
 }
 
+.answer-btn {
+    font-size: 1.05rem;
+    padding: 10px 18px;
+    min-width: 220px;
+    min-height: 48px;
+    margin: 8px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.answer-btn:hover,
+#add-form button:hover,
+button[type="submit"]:hover {
+    opacity: 0.95;
+}
